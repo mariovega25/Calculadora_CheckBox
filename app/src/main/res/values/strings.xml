@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ChecBoxes</string>
+    <string name="n1">Numero 1</string>
+    <string name="n2">Numero 2</string>
+    <string name="cb1">Suma</string>
+    <string name="cb2">Resta</string>
+    <string name="cb3">Multiplicación</string>
+    <string name="cb4">División</string>
+    <string name="boton">Calcular</string>
+    <string name="boton_Limpiar">Limpiar</string>
+    <string name="res">Resultado</string>
+    <string name="by">Powered By Mario Vega</string>
+</resources>
